@@ -341,7 +341,7 @@ scenes.append(badge("s2", 2) + f'''
   <div class="bar-val big" id="bar2-v" style="left:420px;bottom:{116 + BAR_MAX}px">{odo("o475", "475", 76, "#16A34A")}<span class="m">M</span></div>
   <div class="bar-lab" style="left:420px">Tráiler 2</div>
 </div>
-<div class="pill yellow" id="ch-rock" style="{at("s2", 40, -500)}">SEGÚN ROCKSTAR</div>
+<div class="pill yellow" id="ch-rock" style="{at("s2", -40, -500)}">SEGÚN ROCKSTAR</div>
 ''')
 SOCIAL = [("youtube-logo", "#FF0033"), ("tiktok-logo", "#0B0D12"), ("instagram-logo", "#E1306C"),
           ("x-logo", "#0B0D12"), ("facebook-logo", "#1877F2")]
