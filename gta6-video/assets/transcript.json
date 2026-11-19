@@ -1,0 +1,926 @@
+[
+  {
+    "text": "GTA",
+    "start": 0.05,
+    "end": 0.22,
+    "id": "w0"
+  },
+  {
+    "text": "6",
+    "start": 0.22,
+    "end": 0.42,
+    "id": "w1"
+  },
+  {
+    "text": "ya",
+    "start": 0.44,
+    "end": 0.58,
+    "id": "w2"
+  },
+  {
+    "text": "está",
+    "start": 0.58,
+    "end": 0.82,
+    "id": "w3"
+  },
+  {
+    "text": "aquí,",
+    "start": 0.91,
+    "end": 1.3,
+    "id": "w4"
+  },
+  {
+    "text": "y",
+    "start": 1.3,
+    "end": 1.33,
+    "id": "w5"
+  },
+  {
+    "text": "sus",
+    "start": 1.55,
+    "end": 1.59,
+    "id": "w6"
+  },
+  {
+    "text": "números",
+    "start": 1.59,
+    "end": 2.11,
+    "id": "w7"
+  },
+  {
+    "text": "dan",
+    "start": 2.11,
+    "end": 2.33,
+    "id": "w8"
+  },
+  {
+    "text": "miedo,",
+    "start": 2.33,
+    "end": 2.82,
+    "id": "w9"
+  },
+  {
+    "text": "dato",
+    "start": 3,
+    "end": 3.13,
+    "id": "w10"
+  },
+  {
+    "text": "1.",
+    "start": 3.22,
+    "end": 3.56,
+    "id": "w11"
+  },
+  {
+    "text": "Su",
+    "start": 3.56,
+    "end": 3.97,
+    "id": "w12"
+  },
+  {
+    "text": "primer",
+    "start": 3.97,
+    "end": 4.1,
+    "id": "w13"
+  },
+  {
+    "text": "tráiler",
+    "start": 4.1,
+    "end": 4.52,
+    "id": "w14"
+  },
+  {
+    "text": "hizo",
+    "start": 4.59,
+    "end": 4.74,
+    "id": "w15"
+  },
+  {
+    "text": "90",
+    "start": 4.83,
+    "end": 5.24,
+    "id": "w16"
+  },
+  {
+    "text": "millones",
+    "start": 5.48,
+    "end": 5.79,
+    "id": "w17"
+  },
+  {
+    "text": "de",
+    "start": 5.79,
+    "end": 5.92,
+    "id": "w18"
+  },
+  {
+    "text": "visitas",
+    "start": 5.92,
+    "end": 6.39,
+    "id": "w19"
+  },
+  {
+    "text": "en",
+    "start": 6.39,
+    "end": 6.61,
+    "id": "w20"
+  },
+  {
+    "text": "YouTube",
+    "start": 6.62,
+    "end": 6.69,
+    "id": "w21"
+  },
+  {
+    "text": "en",
+    "start": 6.92,
+    "end": 7.04,
+    "id": "w22"
+  },
+  {
+    "text": "un",
+    "start": 7.14,
+    "end": 7.2,
+    "id": "w23"
+  },
+  {
+    "text": "solo",
+    "start": 7.2,
+    "end": 7.48,
+    "id": "w24"
+  },
+  {
+    "text": "día,",
+    "start": 7.48,
+    "end": 7.86,
+    "id": "w25"
+  },
+  {
+    "text": "dato",
+    "start": 7.86,
+    "end": 8.15,
+    "id": "w26"
+  },
+  {
+    "text": "2.",
+    "start": 8.15,
+    "end": 8.6,
+    "id": "w27"
+  },
+  {
+    "text": "El",
+    "start": 8.6,
+    "end": 8.83,
+    "id": "w28"
+  },
+  {
+    "text": "segundo",
+    "start": 8.83,
+    "end": 9.17,
+    "id": "w29"
+  },
+  {
+    "text": "tráiler",
+    "start": 9.17,
+    "end": 9.6,
+    "id": "w30"
+  },
+  {
+    "text": "fue",
+    "start": 9.6,
+    "end": 9.79,
+    "id": "w31"
+  },
+  {
+    "text": "mucho",
+    "start": 9.79,
+    "end": 10.1,
+    "id": "w32"
+  },
+  {
+    "text": "más",
+    "start": 10.1,
+    "end": 10.33,
+    "id": "w33"
+  },
+  {
+    "text": "lejos,",
+    "start": 10.33,
+    "end": 10.8,
+    "id": "w34"
+  },
+  {
+    "text": "según",
+    "start": 10.8,
+    "end": 11.16,
+    "id": "w35"
+  },
+  {
+    "text": "Rockstar,",
+    "start": 11.16,
+    "end": 11.88,
+    "id": "w36"
+  },
+  {
+    "text": "475",
+    "start": 11.88,
+    "end": 12.76,
+    "id": "w37"
+  },
+  {
+    "text": "millones",
+    "start": 12.76,
+    "end": 13.54,
+    "id": "w38"
+  },
+  {
+    "text": "de",
+    "start": 13.54,
+    "end": 13.72,
+    "id": "w39"
+  },
+  {
+    "text": "visitas",
+    "start": 13.73,
+    "end": 14.41,
+    "id": "w40"
+  },
+  {
+    "text": "en",
+    "start": 14.41,
+    "end": 14.63,
+    "id": "w41"
+  },
+  {
+    "text": "24",
+    "start": 14.68,
+    "end": 15.02,
+    "id": "w42"
+  },
+  {
+    "text": "horas,",
+    "start": 15.1,
+    "end": 15.54,
+    "id": "w43"
+  },
+  {
+    "text": "sumando",
+    "start": 15.54,
+    "end": 16.06,
+    "id": "w44"
+  },
+  {
+    "text": "todas",
+    "start": 16.09,
+    "end": 16.45,
+    "id": "w45"
+  },
+  {
+    "text": "las",
+    "start": 16.45,
+    "end": 16.65,
+    "id": "w46"
+  },
+  {
+    "text": "redes,",
+    "start": 16.86,
+    "end": 17.21,
+    "id": "w47"
+  },
+  {
+    "text": "dato",
+    "start": 17.21,
+    "end": 17.41,
+    "id": "w48"
+  },
+  {
+    "text": "3.",
+    "start": 17.56,
+    "end": 18.02,
+    "id": "w49"
+  },
+  {
+    "text": "Se",
+    "start": 18.02,
+    "end": 18.225,
+    "id": "w50"
+  },
+  {
+    "text": "ha",
+    "start": 18.225,
+    "end": 18.43,
+    "id": "w51"
+  },
+  {
+    "text": "retrasado",
+    "start": 18.43,
+    "end": 18.98,
+    "id": "w52"
+  },
+  {
+    "text": "dos",
+    "start": 19.05,
+    "end": 19.2,
+    "id": "w53"
+  },
+  {
+    "text": "veces,",
+    "start": 19.29,
+    "end": 19.71,
+    "id": "w54"
+  },
+  {
+    "text": "primero",
+    "start": 19.94,
+    "end": 20.33,
+    "id": "w55"
+  },
+  {
+    "text": "iba",
+    "start": 20.33,
+    "end": 20.55,
+    "id": "w56"
+  },
+  {
+    "text": "a",
+    "start": 20.55,
+    "end": 20.63,
+    "id": "w57"
+  },
+  {
+    "text": "salir",
+    "start": 20.63,
+    "end": 21.01,
+    "id": "w58"
+  },
+  {
+    "text": "en",
+    "start": 21.01,
+    "end": 21.15,
+    "id": "w59"
+  },
+  {
+    "text": "2025,",
+    "start": 21.38,
+    "end": 22.26,
+    "id": "w60"
+  },
+  {
+    "text": "luego",
+    "start": 22.29,
+    "end": 22.65,
+    "id": "w61"
+  },
+  {
+    "text": "el",
+    "start": 22.65,
+    "end": 22.71,
+    "id": "w62"
+  },
+  {
+    "text": "26",
+    "start": 22.83,
+    "end": 23.25,
+    "id": "w63"
+  },
+  {
+    "text": "de",
+    "start": 23.27,
+    "end": 23.42,
+    "id": "w64"
+  },
+  {
+    "text": "mayo,",
+    "start": 23.42,
+    "end": 23.88,
+    "id": "w65"
+  },
+  {
+    "text": "y",
+    "start": 23.88,
+    "end": 23.95,
+    "id": "w66"
+  },
+  {
+    "text": "al",
+    "start": 23.95,
+    "end": 24.1,
+    "id": "w67"
+  },
+  {
+    "text": "final",
+    "start": 24.1,
+    "end": 24.49,
+    "id": "w68"
+  },
+  {
+    "text": "hoy",
+    "start": 24.49,
+    "end": 24.72,
+    "id": "w69"
+  },
+  {
+    "text": "19",
+    "start": 24.72,
+    "end": 25.18,
+    "id": "w70"
+  },
+  {
+    "text": "de",
+    "start": 25.19,
+    "end": 25.34,
+    "id": "w71"
+  },
+  {
+    "text": "noviembre",
+    "start": 25.34,
+    "end": 26.03,
+    "id": "w72"
+  },
+  {
+    "text": "de",
+    "start": 26.03,
+    "end": 26.18,
+    "id": "w73"
+  },
+  {
+    "text": "2026,",
+    "start": 26.18,
+    "end": 27.27,
+    "id": "w74"
+  },
+  {
+    "text": "dato",
+    "start": 27.27,
+    "end": 27.58,
+    "id": "w75"
+  },
+  {
+    "text": "4.",
+    "start": 27.58,
+    "end": 28.3,
+    "id": "w76"
+  },
+  {
+    "text": "Volvemos",
+    "start": 28.59,
+    "end": 29.07,
+    "id": "w77"
+  },
+  {
+    "text": "a",
+    "start": 29.07,
+    "end": 29.13,
+    "id": "w78"
+  },
+  {
+    "text": "Vice",
+    "start": 29.13,
+    "end": 29.36,
+    "id": "w79"
+  },
+  {
+    "text": "City",
+    "start": 29.45,
+    "end": 29.61,
+    "id": "w80"
+  },
+  {
+    "text": "24",
+    "start": 29.69,
+    "end": 29.86,
+    "id": "w81"
+  },
+  {
+    "text": "años",
+    "start": 30.1,
+    "end": 30.34,
+    "id": "w82"
+  },
+  {
+    "text": "después,",
+    "start": 30.35,
+    "end": 30.94,
+    "id": "w83"
+  },
+  {
+    "text": "y",
+    "start": 30.94,
+    "end": 31,
+    "id": "w84"
+  },
+  {
+    "text": "por",
+    "start": 31,
+    "end": 31.18,
+    "id": "w85"
+  },
+  {
+    "text": "primera",
+    "start": 31.22,
+    "end": 31.66,
+    "id": "w86"
+  },
+  {
+    "text": "vez",
+    "start": 31.76,
+    "end": 31.87,
+    "id": "w87"
+  },
+  {
+    "text": "en",
+    "start": 31.87,
+    "end": 32,
+    "id": "w88"
+  },
+  {
+    "text": "la",
+    "start": 32,
+    "end": 32.11,
+    "id": "w89"
+  },
+  {
+    "text": "saga",
+    "start": 32.11,
+    "end": 32.14,
+    "id": "w90"
+  },
+  {
+    "text": "moderna,",
+    "start": 32.45,
+    "end": 32.87,
+    "id": "w91"
+  },
+  {
+    "text": "una",
+    "start": 32.99,
+    "end": 33.19,
+    "id": "w92"
+  },
+  {
+    "text": "de",
+    "start": 33.19,
+    "end": 33.32,
+    "id": "w93"
+  },
+  {
+    "text": "los",
+    "start": 33.32,
+    "end": 33.52,
+    "id": "w94"
+  },
+  {
+    "text": "protagonistas",
+    "start": 33.52,
+    "end": 34.38,
+    "id": "w95"
+  },
+  {
+    "text": "es",
+    "start": 34.39,
+    "end": 34.52,
+    "id": "w96"
+  },
+  {
+    "text": "una",
+    "start": 34.52,
+    "end": 34.72,
+    "id": "w97"
+  },
+  {
+    "text": "mujer,",
+    "start": 34.72,
+    "end": 35.16,
+    "id": "w98"
+  },
+  {
+    "text": "Lucía.",
+    "start": 35.19,
+    "end": 35.82,
+    "id": "w99"
+  },
+  {
+    "text": "Junto",
+    "start": 36.01,
+    "end": 36.07,
+    "id": "w100"
+  },
+  {
+    "text": "a",
+    "start": 36.15,
+    "end": 36.21,
+    "id": "w101"
+  },
+  {
+    "text": "Jason,",
+    "start": 36.21,
+    "end": 36.58,
+    "id": "w102"
+  },
+  {
+    "text": "en",
+    "start": 36.65,
+    "end": 36.76,
+    "id": "w103"
+  },
+  {
+    "text": "una",
+    "start": 36.76,
+    "end": 36.95,
+    "id": "w104"
+  },
+  {
+    "text": "historia",
+    "start": 36.95,
+    "end": 37.3,
+    "id": "w105"
+  },
+  {
+    "text": "al",
+    "start": 37.53,
+    "end": 37.58,
+    "id": "w106"
+  },
+  {
+    "text": "estilo",
+    "start": 37.58,
+    "end": 37.96,
+    "id": "w107"
+  },
+  {
+    "text": "Bonnie",
+    "start": 37.96,
+    "end": 38.34,
+    "id": "w108"
+  },
+  {
+    "text": "y",
+    "start": 38.34,
+    "end": 38.4,
+    "id": "w109"
+  },
+  {
+    "text": "Clyde,",
+    "start": 38.4,
+    "end": 38.77,
+    "id": "w110"
+  },
+  {
+    "text": "pero",
+    "start": 38.97,
+    "end": 39.08,
+    "id": "w111"
+  },
+  {
+    "text": "el",
+    "start": 39.08,
+    "end": 39.2,
+    "id": "w112"
+  },
+  {
+    "text": "dato",
+    "start": 39.2,
+    "end": 39.45,
+    "id": "w113"
+  },
+  {
+    "text": "más",
+    "start": 39.45,
+    "end": 39.57,
+    "id": "w114"
+  },
+  {
+    "text": "bestia",
+    "start": 39.87,
+    "end": 40.01,
+    "id": "w115"
+  },
+  {
+    "text": "es",
+    "start": 40.07,
+    "end": 40.13,
+    "id": "w116"
+  },
+  {
+    "text": "otro.",
+    "start": 40.13,
+    "end": 40.7,
+    "id": "w117"
+  },
+  {
+    "text": "GTA",
+    "start": 40.7,
+    "end": 41.07,
+    "id": "w118"
+  },
+  {
+    "text": "5",
+    "start": 41.07,
+    "end": 41.12,
+    "id": "w119"
+  },
+  {
+    "text": "salió",
+    "start": 41.12,
+    "end": 41.46,
+    "id": "w120"
+  },
+  {
+    "text": "en",
+    "start": 41.48,
+    "end": 41.61,
+    "id": "w121"
+  },
+  {
+    "text": "2013",
+    "start": 41.61,
+    "end": 42.34,
+    "id": "w122"
+  },
+  {
+    "text": "y",
+    "start": 42.34,
+    "end": 42.59,
+    "id": "w123"
+  },
+  {
+    "text": "ya",
+    "start": 42.59,
+    "end": 42.67,
+    "id": "w124"
+  },
+  {
+    "text": "ha",
+    "start": 42.67,
+    "end": 42.81,
+    "id": "w125"
+  },
+  {
+    "text": "vendido",
+    "start": 42.85,
+    "end": 43.3,
+    "id": "w126"
+  },
+  {
+    "text": "más",
+    "start": 43.3,
+    "end": 43.51,
+    "id": "w127"
+  },
+  {
+    "text": "de",
+    "start": 43.51,
+    "end": 43.65,
+    "id": "w128"
+  },
+  {
+    "text": "230",
+    "start": 43.65,
+    "end": 44.29,
+    "id": "w129"
+  },
+  {
+    "text": "millones",
+    "start": 44.29,
+    "end": 44.63,
+    "id": "w130"
+  },
+  {
+    "text": "de",
+    "start": 44.93,
+    "end": 45,
+    "id": "w131"
+  },
+  {
+    "text": "copias.",
+    "start": 45,
+    "end": 45.7,
+    "id": "w132"
+  },
+  {
+    "text": "Ese",
+    "start": 45.7,
+    "end": 45.915,
+    "id": "w133"
+  },
+  {
+    "text": "es",
+    "start": 45.915,
+    "end": 46.13,
+    "id": "w134"
+  },
+  {
+    "text": "el",
+    "start": 46.13,
+    "end": 46.18,
+    "id": "w135"
+  },
+  {
+    "text": "listón",
+    "start": 46.25,
+    "end": 46.62,
+    "id": "w136"
+  },
+  {
+    "text": "que",
+    "start": 46.62,
+    "end": 46.83,
+    "id": "w137"
+  },
+  {
+    "text": "GTA",
+    "start": 46.83,
+    "end": 47.04,
+    "id": "w138"
+  },
+  {
+    "text": "6",
+    "start": 47.04,
+    "end": 47.15,
+    "id": "w139"
+  },
+  {
+    "text": "tiene",
+    "start": 47.27,
+    "end": 47.4,
+    "id": "w140"
+  },
+  {
+    "text": "que",
+    "start": 47.64,
+    "end": 47.82,
+    "id": "w141"
+  },
+  {
+    "text": "superar.¿Lo",
+    "start": 47.82,
+    "end": 48.9,
+    "id": "w142"
+  },
+  {
+    "text": "vas",
+    "start": 48.94,
+    "end": 49,
+    "id": "w143"
+  },
+  {
+    "text": "a",
+    "start": 49,
+    "end": 49.07,
+    "id": "w144"
+  },
+  {
+    "text": "jugar",
+    "start": 49.07,
+    "end": 49.39,
+    "id": "w145"
+  },
+  {
+    "text": "el",
+    "start": 49.39,
+    "end": 49.5,
+    "id": "w146"
+  },
+  {
+    "text": "primer",
+    "start": 49.57,
+    "end": 49.91,
+    "id": "w147"
+  },
+  {
+    "text": "día?",
+    "start": 49.91,
+    "end": 50.23,
+    "id": "w148"
+  },
+  {
+    "text": "Comenta",
+    "start": 50.45,
+    "end": 50.91,
+    "id": "w149"
+  },
+  {
+    "text": "Vice",
+    "start": 50.91,
+    "end": 51.24,
+    "id": "w150"
+  },
+  {
+    "text": "y",
+    "start": 51.24,
+    "end": 51.32,
+    "id": "w151"
+  },
+  {
+    "text": "te",
+    "start": 51.32,
+    "end": 51.48,
+    "id": "w152"
+  },
+  {
+    "text": "leo.",
+    "start": 51.48,
+    "end": 52,
+    "id": "w153"
+  }
+]
